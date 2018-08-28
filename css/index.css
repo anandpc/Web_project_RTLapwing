@@ -1,0 +1,9 @@
+body{
+  padding-top: 60px;
+}
+
+/* Local CSS*/
+#myNavbar ul li a:hover{
+  background-color: black;
+  color: white;
+}
