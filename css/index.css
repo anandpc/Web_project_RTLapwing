@@ -1,9 +1,44 @@
 body{
   padding-top: 60px;
+  font: 400 15px Lato, sans-serif;
+  line-height: 1.8;
+  color: #818181;
 }
 
 /* Local CSS*/
 #myNavbar ul li a:hover{
   background-color: black;
   color: white;
+}
+
+h2 {
+  font-size: 24px;
+  text-transform: uppercase;
+  color: #303030;
+  font-weight: 600;
+  margin-bottom: 30px;
+  padding-top: 40px;
+}
+h4 {
+  font-size: 19px;
+  line-height: 1.375em;
+  color: #303030;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+.services-img{
+  width: 320px;
+  height: auto;
+}
+.contact-details h4{
+  line-height: 0.8em;
+}
+
+#contact{
+  margin-bottom: 25px;
+}
+#contact-bg{
+  padding: 20px;
+  background-color: #C0C0C0;
+  border-radius: 3px;
 }
